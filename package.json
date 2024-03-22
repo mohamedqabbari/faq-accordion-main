@@ -1,0 +1,24 @@
+{
+  "name": "faq-accordion-main",
+  "version": "1.0.0",
+  "description": "FrontendMentor.io Challenge: FAQ Accordion Main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass styles/style.scss styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedqabbari/faq-accordion-main.git"
+  },
+  "author": "Mohammed Qabbari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedqabbari/faq-accordion-main/issues"
+  },
+  "homepage": "https://github.com/mohamedqabbari/faq-accordion-main#readme",
+  "devDependencies": {
+    "jquery": "^3.7.1",
+    "sass": "^1.71.1"
+  }
+}
